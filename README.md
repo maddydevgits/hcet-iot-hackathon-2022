@@ -14,6 +14,13 @@ Madhu Parvathaneni alias MS is a Solutions Architect and mentor at Make Skilled.
 2. Create an account in Tinker Cad platform from <a href="https://www.tinkercad.com">here</a>
 3. Create an account in Thing Speak platform from <a href="https://www.thingspeak.com">here</a>
 
+# esp8266 additional boards manager url
+https://arduino.esp8266.com/stable/package_esp8266com_index.json
+
+# esp32 additional boards manager url
+https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
+
+
 # Telegram Group
 https://t.me/+MQfytziaVqU4Nzdl
 
