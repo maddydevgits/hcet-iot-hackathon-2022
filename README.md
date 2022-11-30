@@ -119,17 +119,47 @@ https://t.me/+MQfytziaVqU4Nzdl
   <tr>
     <td>18</td>
     <td>Based on LDR Sensor, make LED ON </td>
-    <td>Day2 - 29th Nov</td>
+    <td>Day3 - 30th Nov</td>
   </tr>
   <tr>
     <td>19</td>
     <td>Based on IR Sensor, print on Serial Monitor</td>
-    <td>Day2 - 29th Nov</td>
+    <td>Day3 - 30th Nov</td>
   </tr>
   <tr>
     <td>20</td>
     <td>Read data from Moisture Sensor</td>
-    <td>Day2 - 29th Nov</td>
+    <td>Day3 - 30th Nov</td>
+  </tr>
+  <tr>
+    <td>21</td>
+    <td>Read data from DHT11 Sensor</td>
+    <td>Day3 - 30th Nov</td>
+  </tr>
+  <tr>
+    <td>22</td>
+    <td>Control Servo Motor from Serial Monitor</td>
+    <td>Day3 - 30th Nov</td>
+  </tr>
+  <tr>
+    <td>23</td>
+    <td>Read Distance from Ultrasonic Sensor</td>
+    <td>Day3 - 30th Nov</td>
+  </tr>
+  <tr>
+    <td>24</td>
+    <td>Read Distance from MQ2 Sensor</td>
+    <td>Day3 - 30th Nov</td>
+  </tr>
+  <tr>
+    <td>25</td>
+    <td>Connecting WiFi to the Chip</td>
+    <td>Day3 - 30th Nov</td>
+  </tr>
+  <tr>
+    <td>26</td>
+    <td>Uploading Sensor to Cloud</td>
+    <td>Day3 - 30th Nov</td>
   </tr>
 </table>
 
