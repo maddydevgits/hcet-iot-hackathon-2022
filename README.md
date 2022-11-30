@@ -138,26 +138,21 @@ https://t.me/+MQfytziaVqU4Nzdl
   </tr>
   <tr>
     <td>22</td>
-    <td>Control Servo Motor from Serial Monitor</td>
-    <td>Day3 - 30th Nov</td>
-  </tr>
-  <tr>
-    <td>23</td>
     <td>Read Distance from Ultrasonic Sensor</td>
     <td>Day3 - 30th Nov</td>
   </tr>
   <tr>
-    <td>24</td>
+    <td>23</td>
     <td>Read Distance from MQ2 Sensor</td>
     <td>Day3 - 30th Nov</td>
   </tr>
   <tr>
-    <td>25</td>
+    <td>24</td>
     <td>Connecting WiFi to the Chip</td>
     <td>Day3 - 30th Nov</td>
   </tr>
   <tr>
-    <td>26</td>
+    <td>25</td>
     <td>Uploading Sensor to Cloud</td>
     <td>Day3 - 30th Nov</td>
   </tr>
