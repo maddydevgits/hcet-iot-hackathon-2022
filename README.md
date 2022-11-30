@@ -156,6 +156,11 @@ https://t.me/+MQfytziaVqU4Nzdl
     <td>Uploading Sensor to Cloud</td>
     <td>Day3 - 30th Nov</td>
   </tr>
+  <tr>
+    <td>26</td>
+    <td>Controlling Virtual Lamp from Mobile App</td>
+    <td>Day3 - 30th Nov</td>
+  </tr>
 </table>
 
 # Questions
