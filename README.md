@@ -161,6 +161,11 @@ https://t.me/+MQfytziaVqU4Nzdl
     <td>Controlling Virtual Lamp from Mobile App</td>
     <td>Day3 - 30th Nov</td>
   </tr>
+  <tr>
+    <td>27</td>
+    <td>Uploading Humidity and Temperature Data to IoT Cloud</td>
+    <td>Day4 - 1st Dec</td>
+  </tr>
 </table>
 
 # Questions
