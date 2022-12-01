@@ -181,6 +181,11 @@ https://t.me/+MQfytziaVqU4Nzdl
     <td>Controlling Bulb from Telegram Bot</td>
     <td>Day4 - 1st Dec</td>
   </tr>
+  <tr>
+    <td>31</td>
+    <td>Devices Talk on MQTT</td>
+    <td>Day4 - 1st Dec</td>
+  </tr>
 </table>
 
 # Questions
