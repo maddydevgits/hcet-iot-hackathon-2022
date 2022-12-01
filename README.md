@@ -166,6 +166,21 @@ https://t.me/+MQfytziaVqU4Nzdl
     <td>Uploading Humidity and Temperature Data to IoT Cloud</td>
     <td>Day4 - 1st Dec</td>
   </tr>
+  <tr>
+    <td>28</td>
+    <td>Controlling LED from IoT Cloud</td>
+    <td>Day4 - 1st Dec</td>
+  </tr>
+  <tr>
+    <td>29</td>
+    <td>Notifying on Telegram Bot</td>
+    <td>Day4 - 1st Dec</td>
+  </tr>
+  <tr>
+    <td>30</td>
+    <td>Controlling Bulb from Telegram Bot</td>
+    <td>Day4 - 1st Dec</td>
+  </tr>
 </table>
 
 # Questions
